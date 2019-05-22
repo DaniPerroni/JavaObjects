@@ -88,7 +88,7 @@ public class MainClass {
 			i++;
 		}
 		
-		System.out.println("lista de profesionales");
+		System.out.println("lista de profesionales ");
 		listaServicio2.forEach((servi) -> {
 			System.out.println(servi.getNombres());
 		});
